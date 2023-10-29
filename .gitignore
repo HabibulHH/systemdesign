@@ -1,0 +1,33 @@
+# Dependency directories
+/node_modules
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+*.swn
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Compiled output
+/build
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Config files
+.nyc_output/
+.coverage/
+jest.config.js
